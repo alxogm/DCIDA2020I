@@ -2,7 +2,7 @@
 
 ## GITHUB
 
-  1.- (Se realiza una sola vez!) Accede al siguiente link: ... para crear tu repositorio para el curso. Si no eres usuario de github, primero deberas crear tu cuenta de usuario.
+  1.- (Se realiza una sola vez!) Accede al siguiente link:https://classroom.github.com/a/aurYOjly  para crear tu repositorio para el curso. Si no eres usuario de github, primero deberas crear tu cuenta de usuario.
 
   2.- Desde la terminal accesa al directorio donde crearas tu espacio de trabajo para la clase (e.g. $HOME/Documentos/Cursos/analisis_datos/). Sigue las instrucciones dadas en clase respecto al manejo de terminal. Es practicamente lo mismo para MAC y Linux. Si trabajas en Windows, lo siento no podré ayudarte demasiado... Es importante que fuera de la clase practiques el uso de la terminal, ya que te será muy útil. https://www.ubuntupit.com/the-50-best-linux-commands-to-run-in-the-terminal/
 
