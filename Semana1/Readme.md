@@ -18,7 +18,7 @@
 
   Cada clase asegurate de actualizar contenido que haya añadido yo:
 
-`git pull https://github.com/alxogm/DA2019 master` 
+`git pull https://github.com/alxogm/DA2020I master` 
 
   5.- Cuando quieras actualizar tu repositorio, para que contenga los cambios locales que hayas hecho en tu directorio de trabajo, debes primero añadir los archivos a rastrear:
 
