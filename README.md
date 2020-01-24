@@ -31,3 +31,4 @@
 
 ## Bibliografía
     - Statistics, Data Mininig, and Machine Learning in Astronomy. https://www.astroml.org
+    - Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/index.html
