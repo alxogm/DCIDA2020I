@@ -1,0 +1,3 @@
+En el siguiente documento añadan las preguntas finales del grupo sobre las bases de datos del Tabulador de salarios, y las lluvias y temparaturas. Así como las respuestas... 
+
+https://drive.google.com/drive/folders/1QU5Uj3xny0t0B4PVBgvv6ZYVcWjMQRoK?usp=sharing
