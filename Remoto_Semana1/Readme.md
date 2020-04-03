@@ -1,0 +1,1 @@
+- We discussed maximum Likelihood and MCMC 
